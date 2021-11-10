@@ -1,1 +1,1 @@
-# odin-recipes
+Hello everyone.  This is my very first project in creating a full website through the odin project.  The goals that I hope to accomplish include becoming more comfortable with the git workflow through the terminal, as well as getting more familiar with using vsc and html basics.# odin-recipes
