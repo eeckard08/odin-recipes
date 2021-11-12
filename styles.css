@@ -1,8 +1,11 @@
-div {
-    color: white;
-    background-color: black;
+.top {
+    color: rgb(34, 88, 124);
+}
+body{
+    background-color: rgb(168, 159, 159);
+    text-align: center;
 }
 
-p {
-    color: red;
+.list {
+    color: rgb(34, 88, 124);
 }
