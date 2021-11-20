@@ -1,12 +1,16 @@
 *{
     background-color: #f0ead6;
-    border: solid red;
-    font-family:Arial, Helvetica, sans-serif
-    margin-top: 10px;
-    margin-bottom: 10px;
-    margin-left: 30px;
-    margin-right: 10px;
-    padding:10px;
+    font-family:Arial, Helvetica, sans-serif;
+    padding: 10px;
+    border:10px;
+    margin: 10 px;
+}
+#menu {
+    position: fixed;
+    right:0;
+    top:50%;
+    width: 8em;
+    margin-top: -1.5em;
 }
 .top {
     color: 333333;
