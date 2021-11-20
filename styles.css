@@ -1,8 +1,17 @@
+*{
+    background-color: #f0ead6;
+    border: solid red;
+    font-family:Arial, Helvetica, sans-serif
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 30px;
+    margin-right: 10px;
+    padding:10px;
+}
 .top {
-    color: rgb(34, 88, 124);
+    color: 333333;
 }
 body{
-    background-color: rgb(168, 159, 159);
     text-align: center;
 }
 
